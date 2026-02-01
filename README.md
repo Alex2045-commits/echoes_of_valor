@@ -9,7 +9,7 @@ Il progetto si concentra sulla gestione degli eventi, sulla logica di gioco e su
 ## 🛠️ Tecnologie utilizzate
 - JavaScript
 - HTML5
-- CSS3
+- CSS
 
 ---
 
