@@ -36,9 +36,20 @@ Il progetto si concentra sulla gestione degli eventi, sulla logica di gioco e su
 
 ---
 
+## 🔧 Sviluppi futuri
+Il progetto è attualmente in evoluzione.
+
+È in corso lo sviluppo di:
+- un **server Node.js locale** per la gestione dell’applicazione
+- un sistema di **autenticazione e sessioni** gestito in **PHP** (backend)
+- una separazione tra **frontend** (grafica e interazione utente) e **backend**
+- integrazione con **database MySQLi**
+
+---
+
 ## 👤 Autore
 **Alexander Biolchini**  
-Studente di Informatica e Telecomunicazioni  
+ex studente di Informatica e Telecomunicazioni  
 
 📧 Email: abiolchini06@gmail.com  
 🔗 GitHub: https://github.com/Alex2045-commits
